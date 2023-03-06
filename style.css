@@ -41,3 +41,11 @@ button:hover {
 body {
   background-color: #333;
 }
+
+/* center the h1 above the calculator, make it white, give it a modern font. */
+
+h1 {
+  text-align: center;
+  color: #fff;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
